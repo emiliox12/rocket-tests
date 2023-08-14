@@ -1,0 +1,2 @@
+[default.databases.mongodb]
+url = "mongodb+srv://emiliox12:Em1l10x12MG*@cluster-emilio.kjwefkz.mongodb.net/?retryWrites=true&w=majority"
